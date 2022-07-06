@@ -16,3 +16,4 @@ rootProject.name = "OpenCVProject"
 include ':app'
 include ':OpenCV'
 include ':appcpp'
+include ':easylearnar'
